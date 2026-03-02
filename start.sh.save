@@ -1,0 +1,1 @@
+#!/bin/bashcd /Users/practo/Desktop/jira-mcp-server/usr/local/bin/uv run python main.py
