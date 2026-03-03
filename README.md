@@ -96,3 +96,15 @@ uv run python main.py
   }
 }
 ```
+
+## 🛠 Available Tools
+```text
+# Create Ticket
+Create a Jira ticket in project CBT with summary "Bug fix"
+
+# Get Ticket Details
+Get details of CBT-123
+
+# Add Comment to Ticket
+Add a comment to CBT-123 saying "This issue is currently under investigation."
+```
